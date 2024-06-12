@@ -141,7 +141,8 @@ i.e. `"J O H N"`
 
 i.e. `"nhoJ"`
 
-3.3 Depending on the [lexicographic order](https://en.wikipedia.org/wiki/Lexicographical_order) of the strings, print: <br>
+3.3 Depending on the [lexicographic order](https://en.wikipedia.org/wiki/
+Lexicographical_order) of the strings, print: <br>
 
 - `The driver's name goes first.`  <br>
 
